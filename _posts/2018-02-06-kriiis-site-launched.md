@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kriiis site launched"
+title: "kriiis site launched"
 date: 2018-02-04
 ---
 
